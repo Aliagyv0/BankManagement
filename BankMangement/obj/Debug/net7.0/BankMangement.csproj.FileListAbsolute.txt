@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\HomeTask\BankMangement\BankMangement\bin\Debug\net7.0\BankMangement.exe
+C:\Users\hp\Desktop\HomeTask\BankMangement\BankMangement\bin\Debug\net7.0\BankMangement.deps.json
+C:\Users\hp\Desktop\HomeTask\BankMangement\BankMangement\bin\Debug\net7.0\BankMangement.runtimeconfig.json
+C:\Users\hp\Desktop\HomeTask\BankMangement\BankMangement\bin\Debug\net7.0\BankMangement.dll
+C:\Users\hp\Desktop\HomeTask\BankMangement\BankMangement\bin\Debug\net7.0\BankMangement.pdb
+C:\Users\hp\Desktop\HomeTask\BankMangement\BankMangement\obj\Debug\net7.0\BankMangement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\HomeTask\BankMangement\BankMangement\obj\Debug\net7.0\BankMangement.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\HomeTask\BankMangement\BankMangement\obj\Debug\net7.0\BankMangement.AssemblyInfo.cs
+C:\Users\hp\Desktop\HomeTask\BankMangement\BankMangement\obj\Debug\net7.0\BankMangement.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\HomeTask\BankMangement\BankMangement\obj\Debug\net7.0\BankMangement.dll
+C:\Users\hp\Desktop\HomeTask\BankMangement\BankMangement\obj\Debug\net7.0\refint\BankMangement.dll
+C:\Users\hp\Desktop\HomeTask\BankMangement\BankMangement\obj\Debug\net7.0\BankMangement.pdb
+C:\Users\hp\Desktop\HomeTask\BankMangement\BankMangement\obj\Debug\net7.0\BankMangement.genruntimeconfig.cache
+C:\Users\hp\Desktop\HomeTask\BankMangement\BankMangement\obj\Debug\net7.0\ref\BankMangement.dll
